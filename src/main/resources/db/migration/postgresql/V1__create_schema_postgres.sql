@@ -1,0 +1,2 @@
+DROP TABLE IF EXISTS students;
+CREATE TABLE students(id serial PRIMARY KEY, name VARCHAR(255), age INTEGER);
