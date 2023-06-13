@@ -6,4 +6,9 @@ import java.util.List;
 
 public interface IStudentService {
     List<Student> findAll();
+
+    Student find(Integer id);
+    Student save(Student student);
+
+    void delete(Integer id);
 }
