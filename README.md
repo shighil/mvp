@@ -1,6 +1,6 @@
 # MVP Application
 This is my personal project to learn spring boot based development. This is a beginner level coding. So other developers who are like me trying out stuffs like me can use this to practice.
-## Prerequites
+## Prerequisites
 ### Postgres Installation
 #### Pull Docker image
 ```bash
